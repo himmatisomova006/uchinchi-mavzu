@@ -1,0 +1,76 @@
+ 
+ #bir{
+border: 1px dashed  red;    
+background-color: white;
+padding: 10px 20px;
+font-size: 30px;
+
+}
+.margen{
+padding: 10px 10px;
+
+
+}
+
+  .border{ 
+background-color: black;
+padding: 20px 40px 40px 40px;
+  }
+  .content{
+    background-color:rgba(255, 66, 19, 0.904) ;
+    padding: 20px;
+    color: white;
+  }
+  
+  .padding{
+    background-color:rgb(224, 186, 177) ;
+    padding: 40px 30px 40px 30px;
+  }
+
+
+#ikki{
+color: white;
+
+}
+#uch{
+color: black;
+
+}
+#besh{
+color: white;
+
+}
+
+#con{
+    color: black;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
